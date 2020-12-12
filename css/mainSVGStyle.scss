@@ -1,0 +1,19 @@
+.bgImg1 {
+    z-index: -100;
+    img {
+        margin-top: -510px;
+        margin-left: -100px;
+        transform: rotate(5deg);
+        // background-color: red;
+    }
+}
+.bgImg2 {
+    z-index: -100;
+    display: flex;
+    justify-content: flex-end;
+    img {
+        margin-top: -910px;
+        margin-left: -100%;
+        // background-color: red;
+    }
+}
